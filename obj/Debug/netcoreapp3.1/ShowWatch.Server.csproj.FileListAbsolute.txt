@@ -5,7 +5,6 @@ C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\ShowWa
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\ShowWatch.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\ShowWatch.Server.RazorAssemblyInfo.cache
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\ShowWatch.Server.RazorAssemblyInfo.cs
-C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\bin\Debug\netcoreapp3.1\ShowWatch.Client.StaticWebAssets.xml
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\bin\Debug\netcoreapp3.1\appsettings.json
@@ -213,3 +212,4 @@ C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\static
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\ShowWatch.Server.dll
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\ShowWatch.Server.pdb
 C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\ShowWatch.Server.genruntimeconfig.cache
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShowWatch.Server.styles.css
